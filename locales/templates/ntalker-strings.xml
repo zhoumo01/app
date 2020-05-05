@@ -1,0 +1,14 @@
+<resources >
+    <string name="xn_kefu_offline">亲！客服不在线！</string>
+    <string name="xn_nonet">网络不给力，请检查网络设置。</string>
+    <string name="xn_toast_errorinput">请不要输入空字符</string>
+    <string name="xn_toast_initfailed">初始化失败</string>
+    <string name="xn_require_evaluation">感谢您的支持，请进行评价</string>
+    <string name="xn_valuation_suggestion_hint">此刻的想法</string>
+    <string name="xn_company_name">企业名称</string>
+    <string name="xn_customer_name">客服名称</string>
+    
+    <!-- SDK -->
+   
+    
+</resources>
