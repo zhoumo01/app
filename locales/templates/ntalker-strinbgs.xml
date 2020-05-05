@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+
+<resources >
     <string name="xn_kefu_offline">亲！客服不在线！</string>
     <string name="xn_nonet">网络不给力，请检查网络设置。</string>
     <string name="xn_toast_errorinput">请不要输入空字符</string>
