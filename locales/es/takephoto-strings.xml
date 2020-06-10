@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TakePhoto-->
+    <string name="tip_type_not_image">No se ha seleccionado ninguna imagen.</string>
+    <string name="tip_no_camera">No se ha detectado ninguna cámara.</string>
+    <string name="tip_tips">Consejos.</string>
+    <string name="tip_compress">Comprimiendo fotos...</string>
+    <string name="tip_compress_failed">&quot;%1$s error de compresión de imagen: %2$s picturePath: %3$s&quot;</string>
+    <string name="msg_crop_failed">&quot;Recorte de imágenes fallido&quot;</string>
+    <string name="msg_compress_failed">&quot;Compresión de imágenes fallida&quot;</string>
+    <string name="msg_crop_canceled">&quot;Cancelar recorte&quot;</string>
+    <string name="msg_operation_canceled">&quot;Operación cancelada&quot;</string>
+    <string name="tip_permission_camera">No tiene permiso para usar la cámara, por favor habilítelo en el administrador de permisos</string>
+    <string name="tip_permission_storage">No tiene permiso para usar la tarjeta SD, por favor habilítelo en el administrador de permisos</string>
+    <string name="tip_permission_camera_storage">No tiene permiso para usar la cámara y la tarjeta SD, por favor habilítelo en el administrador de permisos</string>
+
+    <!--custom multipleimageselect -->
+    <string name="album_view">Seleccione una imagen</string>
+    <string name="image_view">Haga clic para seleccionar</string>
+
+    <string name="add">Confirmar</string>
+    <string name="selected">Seleccionado.</string>
+    <string name="limit_exceeded">Sólo se puede seleccionar un máximo de %d fotos</string>
+
+
+</resources>

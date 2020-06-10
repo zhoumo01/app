@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="xn_kefu_offline">¡El servicio de atención al cliente no está en línea!</string>
+    <string name="xn_nonet">La red es débil, verifique la configuración de red.</string>
+    <string name="xn_toast_errorinput">Por favor, no ingrese caracteres vacíos</string>
+    <string name="xn_toast_initfailed">Error en la inicialización</string>
+    <string name="xn_require_evaluation">Gracias por su apoyo, por favor dé una calificación.</string>
+    <string name="xn_valuation_suggestion_hint">Pensamientos en este momento</string>
+    <string name="xn_company_name">Nombre de la empresa</string>
+    <string name="xn_customer_name">Nombre del servicio de atención al cliente</string>
+    
+    <!-- SDK -->
+    
+    
+    <!-- xn_activity_valuationpage.xml -->
+    <string name="xn_ad_appraise_vg">Muy satisfactorio</string>
+    <string name="xn_ad_appraise_good">Satisfactorio</string>
+    <string name="xn_ad_appraise_normal">Regular</string>
+    <string name="xn_ad_appraise_bad">Insatisfactorio</string>
+    <string name="xn_ad_appraise_vb">Muy insatisfactorio</string>
+    <string name="xn_ad_questionstatus">Estado de resolución de problemas</string>
+    <string name="xn_val_going">En seguimiento</string>
+    <string name="xn_val_done">Resuelto</string>
+    <string name="xn_val_no">Pendiente</string>
+    <string name="xn_adviseandfeedback">Sugerencias y comentarios</string>
+    <string name="xn_evaluation_yesorno">Resolver o no</string>
+    <!-- xn_activity_valuationpage.xml,xn_activity_leavemsgpage.xml -->
+    <string name="xn_submit_valuation">Enviar evaluación</string>
+    
+    <!-- xn_activity_leavemsgpage.xml,xn_dialog_leavemsg.xml -->
+    
+    <string name="xn_leave_message">Dejar un mensaje</string>
+    <string name="xn_leave_message_close">Cerrar</string>
+    <string name="xn_submit_leavemsg">Enviar</string>
+    <!-- xn_dialog_leavemsg.xml -->
+    <string name="xn_leavemsg_dialogback">Volver</string>
+    <string name="xn_getservicefail">La solicitud de servicio falló, comuníquese con el proveedor de servicios</string>
+    <string name="xn_tt_leavemsgtip_phone">Por favor ingrese el número de teléfono</string>
+    <string name="xn_tt_leavemsgtip_email">Por favor, ingrese el correo electrónico</string>
+    <string name="xn_leavingmsg_notice">Aviso</string>
+    <string name="xn_leavemesg_words_hint2">(Obligatorio):</string>
+    <string name="xn_leavemesg_words_hint3">(Opcional) :</string>
+    <!-- xn_activity_leavemsgpage.xml -->
+    <string name="xn_input_pe">Por favor, ingrese su número de teléfono o correo electrónico</string>
+    <string name="xn_toast_cancel">Volver</string>
+    <string name="xn_leavemesg_words_hint">Dejar un mensaje</string>
+    <string name="xn_leavemesg_name_hint">Nombre</string>
+    <string name="xn_leavemesg_tel_hint">Teléfono</string>
+    <string name="xn_leavemesg_email_hint">Correo electrónico</string>
+    
+    <!-- xn_activity_my_pg_bar.xml -->
+    <string name="xn_leavingmsg">Dejando mensaje</string>
+    <string name="xn_leaved_msg">Mensaje enviado</string>
+    
+    <!-- xn_activity_chatpage.xml -->
+    <string name="xn_chatpage_kfname">Servicio de atención al cliente en línea</string>
+    <string name="xn_chatpage_kfname_more">Conversación de varias personas</string>
+    <string name="xn_chatpage_close">Finalizar conversación</string>
+    
+    <!-- xn_custom_facerelativelayout.xml -->
+    <string name="xn_custom_send">Enviar</string>
+    <string name="nt_string_et_hint">Si tiene algún problema,  contacte al servicio de atención al cliente.</string>
+    <string name="xn_sdk_presstalk">Presione para hablar</string>
+    <string name="xn_sdk_loosestop">Suelte para finalizar</string>
+    <string name="xn_sdk_voice_start_recode">Haga clic para empezar a identificar</string>
+    <string name="xn_sdk_voice_empty">Parece que no habló</string>
+    <string name="xn_sdk_voice_failt_recode">El reconocimiento falló, ¡intente hacer clic de nuevo!</string>
+    <string name="xn_sdk_voice_toast_recode">Tu voz está siendo escuchada, por favor habla...</string>
+    
+    
+    <!-- xn_message_function_layout.xml -->
+    <string name="xn_sdk_havevaluation">Evaluado</string>
+    <string name="xn_function_picture">Imagen</string>
+    <string name="xn_function_album">Álbum</string>
+    <string name="xn_function_camera">Tomar foto</string>
+    <string name="xn_function_setting">Configuración</string>
+    <string name="xn_function_video_chat">Videollamada</string>
+    
+    <string name="xn_function_emoji">Emoticones</string>
+    <string name="xn_function_voice">Mensajes de voz</string>
+    <string name="xn_function_trans">Transferir a personal</string>
+    <string name="xn_function_evaluate">Evaluación</string>
+    <string name="xn_function_plus">Más</string>
+    <string name="xn_function_empty">Vacío</string>
+    <string name="xn_function_order">Orden</string>
+    <string name="xn_function_video">Video</string>
+    <string name="xn_function_conversation_sum">Resumen de la consulta</string>
+    <string name="xn_function_conversation_fastresponse">Frases comunes</string>
+    <string name="xn_function_conversation_transfer">Transferencia</string>
+    <string name="xn_function_conversation_evaluate">Invitación a evaluación</string>
+    <string name="xn_toast_restoreauthority">Active los permisos de almacenamiento</string>
+    <string name="xn_toast_videoauthority">Active los permisos de almacenamiento, fotos y grabación</string>
+    <string name="xn_toast_storecamauthority">Por favor, active los permisos de almacenamiento y el acceso a fotos</string>
+    <string name="xn_toast_chat_video_staring">Videollamada en curso, inténtelo de nuevo más tarde</string>
+    <string name="xn_camera_select">%d fotos seleccionadas.</string>
+    <string name="xn_camera_select_default">0 fotos seleccionadas</string>
+    
+    
+    <!-- xn_listview_head.xml -->
+    <string name="xn_sdk_nomoreinfo">No hay más infomración de chat...</string>
+    <string name="xn_sdk_moreinfo">Cargando...</string>
+    
+    <!-- xn_activity_chatpage.xml,xn_activity_explorer.xml -->
+    <string name="xn_chatpage_back1">Volver</string>
+    
+    <!-- xn_activity_myimage_dialog.xml -->
+    <string name="xn_myimage_back">Volver</string>
+    <string name="xn_myimage_savelocal">Guardar localmente</string>
+    
+    <!-- xn_normal_dialog.xml -->
+    <string name="xn_normaldialog_title">Consejos</string>
+    <string name="xn_contact_provider">¡No se pudo obtener el servicio, por favor póngase en contacto con el proveedor de servicios!</string>
+    <string name="xn_cancel_queue">Hola, ¿quieres abandonar la cola de espera?</string>
+    <string name="xn_close_chat_session">Confirmar finalizar la conversación</string>
+    
+    <!-- xn_popupwindow_copy.xml -->
+    <string name="xn_copy">Copiar</string>
+    <string name="xn_copylink">Copiar enlace</string>
+    <string name="xn_delete">Eliminar</string>
+    <!-- xn_activity_valuationpage.xml,xn_chatting_item_msg_system.xml -->
+    <string name="xn_valuation">Evaluación</string>
+    
+    <!-- xn_activity_valuationpage.xml,xn_normal_dialog.xml -->
+    <string name="xn_cancel">Cancelar</string>
+    <string name="xn_confirm">Confirmar</string>
+    
+    <!-- Toast -->
+    <string name="xn_noevaluate">Aún no es posible evaluar esta sesión, ¡gracias!</string>
+    <string name="xn_evaluate_yet">Ya lo has evaluado, ¡gracias!</string>
+    <string name="xn_tt_leavemsgtip_content">Por favor, ingrese el contenido del mensaje, ¡gracias!</string>
+    <string name="xn_tt_leavemsgtip_1">Por favor, rellene los espacios</string>
+    <string name="xn_tt_leavemsgtip_2">¡Gracias!</string>
+    <string name="xn_tt_leavemsgtip_name">Por favor, ingrese su nombre, gracias!</string>
+    <string name="xn_tt_leavemsgtip_phoneormail">Por favor, ingrese su número de teléfono móvil o dirección de correo electrónico</string>
+    <string name="xn_tt_leavemsgtip_truephone">¡Por favor, ingrese un número de teléfono celular correcto, gracias!</string>
+    <string name="xn_tt_leavemsgtip_trueemail">¡Por favor, ingrese un correo electrónico correcto, gracias!</string>
+    <string name="xn_tt_leavemsgtip_righttext">No se puede ingresar caracteres especiales</string>
+    <string name="xn_tt_leavemsgtip_success">Mensaje enviado con éxito, nos ponemos en contacto con usted tan pronto como sea posible</string>
+    <string name="xn_tt_leavemsg_failed">Error al dejar mensaje</string>
+    <string name="xn_toast_authority">Active los permisos relacionados con la grabación</string>
+    <string name="xn_toast_mediate">Presionó demasiado rápido</string>
+    <string name="xn_valuationtip_hasposted">Su evaluación ha sido enviada, gracias</string>
+    <string name="xn_inputtext_size">Ha ingresado más de 1000 palabras \n reduzca y vuelva a enviar</string>
+    <string name="xn_inputvaluatuion_maxsize">El contenido de la evaluación no puede superar los 200 caracteres</string>
+    <string name="xn_inputleavemsg_maxsize">El contenido del mensaje no puede superar los 400 caracteres</string>
+    <string name="xn_toast_sendfail">Error al enviar</string>
+    <string name="xn_toast_getpicturefailed">No se ha encontrado ninguna imagen</string>
+    <string name="xn_tt_sdcardtip_nowriteright">No se pudieron obtener permisos de almacenamiento</string>
+    <string name="xn_tt_cameratip_nofindapplication">No se encontraron aplicaciones relacionadas o el permiso para tomar fotos está prohibido</string>
+    <string name="xn_tt_cameratip_creatfilefailed">No se pudo crear un archivo de foto</string>
+    <string name="xn_tt_cameratip_getfilefailed">No se pudo obtener el archivo de foto</string>
+    <string name="xn_tt_cameratip_cancel">Tomar una foto ha sido cancelado</string>
+    <string name="xn_tt_savepicture_success">Guardado exitosamente</string>
+    <string name="xn_tt_savepicture_fail">Error al guardar</string>
+    <string name="xn_tt_savepicture_fail_1">La imagen ya existe y el directorio del archivo es:</string>
+    <string name="xn_tt_savepicture_remind">Descargado en:</string>
+    
+    <!-- xn_dialog_myvioce.xml -->
+    <string name="xn_releasetotalk">Suelte para cancelar el envío</string>
+    <string name="xn_fingerslip_totalk">Deslice hacia arriba para cancelar el envío</string>
+    <string name="xn_tooshort">El tiempo de conversación es demasiado corto</string>
+    
+    <!-- 系统消息提示 -->
+    <string name="xn_historyinfo">Abajo está el historial de información</string>
+    <string name="xn_newinfo">Nueva información</string>
+    <string name="xn_down_more_history">Tire hacia abajo para ver más el historial de información</string>
+    <string name="xn_no_more_history">No hay más información</string>
+    <string name="xn_kefu_leave">¡Hola! El servicio de atención al cliente no está en línea</string>
+    <string name="xn_kefu_offlinetoleave">¡Hola! El servicio de atención al cliente no está en línea, por favor deje un mensaje</string>
+    <string name="xn_leave_queue1">¡Hola! El servicio de atención al cliente está ocupado, usted está en primer lugar en la cola, por favor espere o deje un mensaje</string>
+    <string name="xn_leave_queue2">¡Hola! El servicio de atención al cliente está ocupado, usted está en primer lugar en la cola, por favor espere</string>
+    <string name="xn_valuation_submit">Error al enviar la evaluación</string>
+    <string name="xn_queuing_toast">El servicio de atención al cliente está ocupado, por favor espere</string>
+    <string name="xn_btn_yes">Sí</string>
+    <string name="xn_btn_no">No</string>
+    <string name="xn_netinvalid_valuation">No hay red, por el momento la evaluación no se puede enviar</string>
+    <string name="xn_kefu_inputing">Ingresando...</string>
+    <string name="xn_swifttorobot">Transferencia a personal</string>
+    
+    <!-- 消息成功率统计： 通道将消息转发给SDK后，SDK通知通道消息已接收到 -->
+    <string name="hwpush_ability_value" translatable="false">Estadísticas de tasa de exito</string>
+    
+    <!-- 极简轨迹 -->
+    <string name="xn_trailtitle_home">Inicio</string>
+    <string name="xn_trailtitle_goodslist">Página de productos</string>
+    <string name="xn_trailtitle_goodsdetail">Página de detalles del producto</string>
+    <string name="xn_trailtitle_shoppingcart">Página del carrito de compras</string>
+    <string name="xn_trailtitle_order">Página de orden</string>
+    <string name="xn_trailtitle_pay">Página de pago</string>
+    <string name="xn_trailtitle_paysuccess">Página de pago exitoso</string>
+    <string name="simple_sdk_groupname">Servicio de atención al cliente en línea</string>
+    <string name="xn_consultation_text">Resumen de la consulta</string>
+    <string name="xn_transfer_text">Transferir sesión</string>
+    <string name="xnchatui_back_tip">Volver</string>
+    <string name="consultation_sum_no_data">Agregue un resumen de consulta al lado del servicio de atención al cliente de PC</string>
+    <string name="consultation_no_data">Cargando para usted...</string>
+    <string name="xn_phasebook_text">Frases de uso común</string>
+    <string name="phrase_book_no_data">Por favor, agregue una frase de uso común al lado del servicio de atención al cliente de PC</string>
+    <string name="xn_transfer_reception_group_empty_tip">Lo sentimos, La lista del grupo de recepción está vacía</string>
+    <string name="xn_transfer_user_empty_tip">Lo sentimos, la lista del servicio de atención al cliente está vacía</string>
+    <string name="xn_dk_failed">El servidor funciona mal, ¡pruebe enviar otro mensaje!</string>
+    <string name="xn_sdk_satisfaction">Satisfacción</string>
+    <string name="xn_sdk_resolved">Problema resuelto o no</string>
+    <string name="xn_sdk_advise">Sugerencias y comentarios</string>
+    <string name="xn_sdk_kefuname">Servicio de atención al cliente en línea</string>
+    <string name="xn_sdk_defaulttrailopenwin">Abra la ventana de chat</string>
+    <string name="xn_sdk_closeconver">¿Está seguro de que desea finalizar la sesión actual?</string>
+    <string name="xn_sdk_msgoutdate">El mensaje que solicitó ha caducado</string>
+    
+    
+    <string name="xn_app_undefine">La otra parte no ha confirmado</string>
+    <string name="xn_app_cancelswift">Transferencia cancelada</string>
+    <string name="xn_app_inviteevaluate">Su invitación de evaluación ha sido enviada</string>
+    <string name="xn_app_converintercept">La sesión finalizó inesperadamente</string>
+    
+    <string name="xn_app_more_text">El contenido que ingesó es demasiado largo, se enviará por partes de hasta 400 palabras cada una.</string>
+    
+    
+    <!--STT-->
+    <string name="xn_commontongue">Mandarín</string>
+    <string name="xn_speakover">Finalizado</string>
+    <string name="xn_continuespeak">Continuar hablando</string>
+    <string name="xn_recognizing">Reconociendo</string>
+    <string name="xn_voice_error_default">Parece que no está hablando</string>
+    <string name="xn_voice_error_no_result">No ha podido reconocer su voz, por favor inténtelo de nuevo</string>
+    <string name="xn_voice_error_net_invalid">Hubo una anomalía en la red, por favor revise la red</string>
+    <string name="xn_netlost">Su red parece tener un problema, por favor verifique la red</string>
+    <string name="xn_toast_recordauthority">Active los permisos de grabación</string>
+    <string name="xn_voice_message">Mensaje de voz</string>
+    <string name="xn_voice_recognition">Reconocimiento de voz</string>
+    <string name="xn_swiftTorobot">El servicio de atención al cliente por personal no está en línea, puede continuar chateando con el robot o dejar un mensaje</string>
+    <!--VIDEO CHAT-->
+    <string name="xn_video_waiting_mobile_net_hint">El uso de red móvil de datos puede generar cargos extra al estar en videollamada. Confirme para continuar.</string>
+    <string name="xn_video_open_camera">Encender cámara</string>
+    <string name="xn_video_close_camera">Apagar cámara</string>
+    <string name="xn_video_open_voice">Encender micrófono</string>
+    <string name="xn_video_close_voice">Apagar micrófono</string>
+    <string name="xn_video_">No ha contestado</string>
+    <string name="xn_video_open_flashlight">Enciender la linterna.</string>
+    <string name="xn_video_close_flashlight">Apagar la linterna</string>
+    <string name="xn_video_reverse_camera">Voltear la cámara</string>
+    <string name="xn_maybephone">aaa puede ser un número de teléfono, puede hacer lo siguiente</string>
+    <string name="xn_phone_copy">Copiar</string>
+    <string name="xn_phone_call">Llamar</string>
+    <string name="xn_phone_cancle">Cancelar</string>
+    <string name="xn_video_starting">Está en una videollamada...</string>
+    <string name="xn_video_net_error">Su red actual es débil</string>
+    <string name="nt_start_video_chat">Iniciar llamada</string>
+    <string name="nt_exit_video_chat">Finalizar llamada</string>
+    <string name="nt_exit_not_net_video_chat">El entorno de red actual no es bueno,  Finalizar la llamada</string>
+    <string name="nt_answer_video_chat">Contestado</string>
+    <string name="nt_reject_video_chat">Rechazado</string>
+    
+    <!--消息-->
+    <string name="nt_picture_message">(Mensaje de imagen)</string>F
+    <string name="nt_video_message">(Mensaje de vídeo)</string>
+    <string name="nt_voice_message">(Mensaje de voz)</string>
+    <string name="nt_text_message">(Mensaje de texto)</string>
+    <string name="nt_hypermedia_message">(Mensaje de hipermedia)</string>
+    
+    <!--拍照-->
+    <string name="nt_camera_remind_1">El teléfono no admite cámaras frontales</string>
+    <string name="nt_camera_remind_2">Su teléfono no es compatible con flash</string>
+    <string name="nt_camera_remind_3">Subiendo imagen</string>
+    <string name="nt_camera_remind_4">Suelte para cancelar</string>
+    <string name="nt_camera_remind_5">Al menos tiene que grabar hasta aquí</string>
+    <string name="nt_camera_remind_6">Mantenga pulsado para grabar</string>
+    <string name="nt_second">Segundos</string>
+    <string name="nt_camera_fail">Error al tomar video</string>
+    <string name="nt_camera_fail_2">¡Presionó demasiado rápido!</string>
+    <string name="nt_camera_fail_3">La memoria interna no es suficiente</string>
+    <string name="nt_camera_fail_4">Error en la grabación</string>
+    <string name="nt_camera_fail_5">El tiempo de grabación no debe ser inferior a</string>
+    <string name="nt_camera_fail_6">¡Hubo una anomalía con el permiso, por favor revise!</string>
+    <string name="nt_photograph">Tomar foto</string>
+    <string name="nt_recording">Grabación</string>
+    
+    <!--发送-->
+    <string name="nt_send_fail_1">Reenviar</string>
+    <string name="nt_send_fail_2">Por el momento no se admite este formato</string>
+    
+    <!--设置-->
+    <string name="nt_custom_skin">Tema personalizado</string>
+    <string name="nt_input">Ingrese la guía</string>
+    <string name="nt_show_name">Mostrar el nombre del servicio de atención al cliente</string>
+    <string name="nt_chat_background">Fondo del chat</string>
+    <string name="nt_default">Predeterminado</string>
+    <string name="nt_setting_1">Creando un ambiente de chat cómodo...</string>
+    <string name="nt_setting_2">Volver a cargar</string>
+    
+    <!--网络-->
+    <string name="nt_net_1">La red actual no está disponible, verifique la configuración de la red</string>
+    
+</resources>

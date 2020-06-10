@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UILib</string>
+
+    <string name="version_updating">Actualizando...</string>
+    <string name="dialog_new_version_title">Versión actualizada.</string>
+    <string name="cancel">Cancelar.</string>
+    <string name="update">Actualizar.</string>
+
+    <string name="permisstion_store_hint">¡Su teléfono prohíbe descargar el material de curso en la aplicación ULearning! Por favor, otorgue los permisos para leer y escribir en la tarjeta de memoria para la aplicación ULearning.</string>
+    <string name="permisstion_store_record_hint">Se requerirá usar su espacio de almacenamiento durante el proceso de grabación, por favor conceda el permiso de lectura de la tarjeta de memoria a la aplicación ULearning.</string>
+
+    <string name="operation_look_storage_permisstion_setting">Ver permisos de configuración.</string>
+    <string name="course_player_loading">Actualizando el reproductor del curso, por favor espere.</string>
+    <string name="course_player_unzip">La lección comenzará pronto, por favor espere.</string>
+    <string name="srl_header_pulling">Deslizar hacia abajo para actualizar.</string>
+    <string name="srl_header_refreshing">Actualizando...</string>
+    <string name="srl_header_loading">Cargando...</string>
+    <string name="srl_header_release">Soltar para actualizar inmediatamente.</string>
+    <string name="srl_header_finish">Actualización completa.</string>
+    <string name="srl_header_failed">No se pudo actualizar.</string>
+    <string name="srl_header_update">Ultima actualización M-d HH:mm.</string>
+    <string name="srl_header_secondary">Soltar para ingresar al segundo nivel.</string>
+
+    <string name="srl_footer_pulling">Deslice hacia arriba para cargar más.</string>
+    <string name="srl_footer_release">Soltar para cargar inmediatamente.</string>
+    <string name="srl_footer_loading">Cargando...</string>
+    <string name="srl_footer_refreshing">Actualizando...</string>
+    <string name="srl_footer_finish">Carga completa.</string>
+    <string name="srl_footer_failed">No se pudo cargar.</string>
+    <string name="srl_footer_nothing">No hay más datos.</string>
+
+    <string name="srl_content_empty">No se encontró ninguna vista de contenido en SmartRefreshLayout. ¿Olvidó agregarlo al archivo de diseño xml?</string>
+    <string formatted="false" name="srl_component_falsify">%s área falsa \n representa la altura del arrastre en tiempo de ejecución [%. 1fdp] \n y no puede mostrar nada</string>
+    <string name="hint_search">Buscar.</string>
+    <string name="hint">Consejo.</string>
+</resources>

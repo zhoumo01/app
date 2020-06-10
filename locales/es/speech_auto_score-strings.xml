@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">auto_puntuación_de habla</string>
+    <string name="speech_auto_score_server_full_hint">La función de puntuación ha sido usada demasiado, tome un descanso y vuelva a intentarlo más tarde.</string>
+    <string name="speech_main_word_suggest">Sugerencias:</string>
+</resources>

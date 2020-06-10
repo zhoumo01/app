@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">okhttp</string>
+
+    <string name="login_error_message_no_connection">La red actual no está disponible, verifique la configuración de la misma.</string>
+    <string name="networkerror">La red actual no está disponible, verifique la conexión de red de la misma.</string>
+    <string name="empty_data_error">Datos no requeridos, tire hacia abajo para actualizar.</string>
+    <string name="exception_parse_json_error">Error de análisis de datos, llame al 4006107808.</string>
+    <string name="package_download_none_network_message">La red actual no está disponible, verifique la conexión de la misma.</string>
+    <string name="network_timeout">La red es débil, se agotó el tiempo de acceso, inténtelo de nuevo más tarde.</string>
+    <string name="network_error_url">No se puede encontrar a lo que desea acceder, llame al 4006107808.</string>
+    <string name="network_error_server">Error al acceder al servidor, llame al 4006107808.</string>
+    <string name="network_error_json">Error de análisis de datos, llame al 4006107808.</string>
+    <string name="server_data_error">Error de actualización de datos, tire hacia abajo para actualizar.</string>
+    <string name="resource_language">CN</string>
+</resources>
